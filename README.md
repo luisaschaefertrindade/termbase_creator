@@ -196,11 +196,11 @@ Exported CSV files contain:
 - Memory-efficient processing for files up to several GB
 
 ### Processing Times (Approximate)
-- < 1,000 words: < 1 second
+- Less than 1,000 words: < 1 second
 - 1,000-10,000 words: 1-5 seconds
 - 10,000-50,000 words: 5-30 seconds
 - 50,000-100,000 words: 30-60 seconds
-- > 100,000 words: 1+ minutes
+- More than 100,000 words: 1+ minutes
 
 ## Troubleshooting
 
