@@ -2,7 +2,7 @@
 
 A comprehensive application for extracting, managing, and analyzing terminology from text corpora. Built with Python and tkinter, this tool helps linguists, translators, and content managers create and maintain professional termbases.
 
-<img width="386" height="289" alt="image" src="https://github.com/user-attachments/assets/0590a206-c97a-44fe-b776-39238b7ebf5e" />
+<img width="1057" height="764" alt="fileprocessing_screen" src="https://github.com/user-attachments/assets/6e113e22-66f0-4a8a-89c7-b315c5e1b41d" />
 
 ## Features
 
@@ -55,6 +55,8 @@ python -m spacy download en_core_web_sm
    ```bash
    python termbase_creator.py
    ```
+   
+<img width="386" height="289" alt="image" src="https://github.com/user-attachments/assets/0590a206-c97a-44fe-b776-39238b7ebf5e" />
 
 2. **Load your corpus:**
    - Click "Load Corpus" in the top toolbar
