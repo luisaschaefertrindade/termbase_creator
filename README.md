@@ -2,6 +2,8 @@
 
 A comprehensive application for extracting, managing, and analyzing terminology from text corpora. Built with Python and tkinter, this tool helps linguists, translators, and content managers create and maintain professional termbases.
 
+<img width="386" height="289" alt="image" src="https://github.com/user-attachments/assets/0590a206-c97a-44fe-b776-39238b7ebf5e" />
+
 ## Features
 
 ### Core Functionality
